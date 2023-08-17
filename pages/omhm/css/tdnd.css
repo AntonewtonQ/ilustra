@@ -72,13 +72,13 @@
 
 @media screen and (max-width: 600px) {
     .menu>ul>button{
-        font-size: 12px;
-        padding: 3px;
+        font-size: 10px;
+        padding: 2px;
         margin-top: 3px;
     }
     .menu>ul{
-        padding: 10px;
-        width: 400px;
+        padding: 8px;
+        width: 350px;
     }
     .text01>p{
         font-size: 1em;
